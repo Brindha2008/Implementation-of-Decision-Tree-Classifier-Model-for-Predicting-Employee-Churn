@@ -1,3 +1,5 @@
+<img width="602" height="808" alt="Screenshot 2026-05-08 144230" src="https://github.com/user-attachments/assets/c31453bb-7ce9-437e-9758-9e0c99e7d4eb" />
+<img width="602" height="808" alt="Screenshot 2026-05-08 144230" src="https://github.com/user-attachments/assets/9042e89f-5b7d-4007-818c-ce49455d8224" />
 # Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
 
 ## AIM:
@@ -82,6 +84,7 @@ RegisterNumber: 212225040050
 
 ## Output:
 ![decision tree classifier model](sam.png)
+<img width="602" height="808" alt="Screenshot 2026-05-08 144230" src="https://github.com/user-attachments/assets/fa4b4f2f-d458-45bb-a130-b774c9c18eb6" />
 
 
 ## Result:
